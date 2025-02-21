@@ -2,7 +2,7 @@ package com.project.solution;
 
 import java.util.ArrayList;
 
-class ProductOfNumbers {
+public class ProductOfNumbers {
 
     // Stores cumulative product of the stream
     private ArrayList<Integer> prefixProduct = new ArrayList<>();
